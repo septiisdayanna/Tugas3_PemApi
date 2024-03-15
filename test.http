@@ -1,0 +1,11 @@
+### RegisterUserApi
+POST http://localhost:8000/api/users/
+Content-Type: application/json
+Accept: application/json
+
+{
+    "username" : "yanna",
+    "password" : "rahasia",
+    "name" : "Septi Isdayanna"
+
+}
